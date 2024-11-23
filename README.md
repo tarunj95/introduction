@@ -83,8 +83,8 @@ I’m passionate about leveraging technology to solve real-world problems and cr
 ---
 
 ### 📊 **GitHub Stats**
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunj95&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunj&layout=compact&theme=radical)  
 
 ---
 
